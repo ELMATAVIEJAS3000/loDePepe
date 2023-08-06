@@ -1,0 +1,6 @@
+aca habia carpeta  de repositorios . eran los anteriores commit que los tuve que sacar y poner un 
+nuevo git ya que por alguna razon me daba error , ya todo esto deberia estar en git
+pero lamentablemente no pude entregar a tiempo el proyecto por un error imprevisto
+solo espero aprobar este trabajo pq me tarde demasiado en tratar de hacerlo bien 
+no se si pq expiro no puedo entregarlo o no me pongan aprobado pero espero que no
+disculpe las molestias y que tenga buen dia 
