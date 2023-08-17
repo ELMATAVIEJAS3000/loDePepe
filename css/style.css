@@ -305,10 +305,10 @@ background-color: #D6EFFF;
         gap: 50px;
         grid-template-areas:
         "header header header"
-        "nav img1 i1"
-        "nav img2 i2"
-        "nav img3 i3"
-        "nav img4 i4"
+        "pb img1 i1"
+        "pb img2 i2"
+        "pb img3 i3"
+        "pb img4 i4"
         "footer footer footer";
 
         grid-template-rows: 80px 25rem 20rem 20rem 20rem 75px; 
@@ -325,6 +325,9 @@ img#img3{
 }
 img#img4{
         grid-area: img4;
+}
+div.publicidad{
+        grid-area: pb;
 }
 
 section#i1{
@@ -369,11 +372,11 @@ section#i4{
 
         grid-template-areas:
         "header header header "
-        "nav i5 i5 "
-        "nav img5 i6 "
-        "nav img6 i7 "
-        "nav img7 i8 "
-        "nav img8 i9 "
+        "pb i5 i5 "
+        "pb img5 i6 "
+        "pb img6 i7 "
+        "pb img7 i8 "
+        "pb img8 i9 "
         "footer footer footer";
 
         grid-template-rows: 90px 5rem 25rem 28rem 25rem 28rem 75px; 
@@ -390,6 +393,9 @@ img#img7{
 }
 img#img8{
         grid-area: img8;
+}
+div.publicidad{
+        grid-area: pb;
 }
 section#i5{
         grid-area: i5;
